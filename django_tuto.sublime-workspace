@@ -1,0 +1,1219 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"partner",
+				"partners_data"
+			],
+			[
+				"availa",
+				"availability"
+			],
+			[
+				"part",
+				"partner_ids"
+			],
+			[
+				"par",
+				"partners_data"
+			],
+			[
+				"roo",
+				"rootScope"
+			],
+			[
+				"col",
+				"column-gutter"
+			],
+			[
+				"cal",
+				"calculateProfit"
+			],
+			[
+				"comm",
+				"commission"
+			],
+			[
+				"pr",
+				"price_diff"
+			],
+			[
+				"res",
+				"resell_value"
+			],
+			[
+				"ng-sw",
+				"ng-switch-when	AngularJS"
+			],
+			[
+				"clos",
+				"closed_days"
+			],
+			[
+				"avail",
+				"availabilities"
+			],
+			[
+				"pdo",
+				"products"
+			],
+			[
+				"discount",
+				"discount_ids"
+			],
+			[
+				"ava",
+				"availability_id"
+			],
+			[
+				"avai",
+				"availabilities_products"
+			],
+			[
+				"hour",
+				"hours_prices"
+			],
+			[
+				"disc",
+				"discounts_prices"
+			],
+			[
+				"price",
+				"prices_products"
+			],
+			[
+				"sele",
+				"selected_day_ids"
+			],
+			[
+				"s",
+				"selected_hour_ids"
+			],
+			[
+				"File",
+				"File	File.open(\"..\") { |file| .. }"
+			],
+			[
+				"produ",
+				"products_to_remove"
+			],
+			[
+				"pro",
+				"products_to_remove"
+			],
+			[
+				"produc",
+				"products"
+			],
+			[
+				"product",
+				"products_to_remove"
+			],
+			[
+				"remote",
+				"remote_partner_product_ids"
+			],
+			[
+				"select",
+				"selected_hour_ids"
+			],
+			[
+				"resou",
+				"resource_watcher"
+			],
+			[
+				"prod",
+				"product_selection_watcher"
+			],
+			[
+				"da",
+				"day_ids_to_remove"
+			],
+			[
+				"day",
+				"day_ids_to_add"
+			],
+			[
+				"day_",
+				"day_ids"
+			],
+			[
+				"p",
+				"product_ids"
+			],
+			[
+				"new",
+				"new_day_ids"
+			],
+			[
+				"curre",
+				"current_day_ids"
+			],
+			[
+				"exte",
+				"extend_dates_to_prices"
+			],
+			[
+				"sel",
+				"selected_day_ids"
+			],
+			[
+				"offe",
+				"offers_selected"
+			],
+			[
+				"remove",
+				"removeProduct"
+			],
+			[
+				"offer",
+				"offer_ids"
+			],
+			[
+				"remo",
+				"remote_product_ids"
+			],
+			[
+				"data",
+				"data_day"
+			],
+			[
+				"closed",
+				"closed_hours_by_days"
+			],
+			[
+				"pric",
+				"price_day_ids"
+			],
+			[
+				"pri",
+				"price_day_ids"
+			],
+			[
+				"day_ids_",
+				"day_ids_to_remove"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"dpl",
+				"duplicated_model"
+			],
+			[
+				"dupl",
+				"duplicated_model"
+			],
+			[
+				"selecte",
+				"selected_days"
+			],
+			[
+				"selec",
+				"selected_day_ids"
+			],
+			[
+				"ori",
+				"original_dates"
+			],
+			[
+				"reload",
+				"reloadPrices"
+			],
+			[
+				"ref",
+				"ref_date"
+			],
+			[
+				"uni",
+				"uniq_chain"
+			],
+			[
+				"uniq",
+				"uniq_discounts"
+			],
+			[
+				"group",
+				"grouped_discounts"
+			],
+			[
+				"discou",
+				"discount_products"
+			],
+			[
+				"disco",
+				"discount_products"
+			],
+			[
+				"load",
+				"load_discounts"
+			],
+			[
+				"selected",
+				"selected_dates"
+			],
+			[
+				"commissio",
+				"commission_percentage"
+			],
+			[
+				"cmm",
+				"commission_percentage"
+			],
+			[
+				"min",
+				"min_commission_with_discount"
+			],
+			[
+				"app",
+				"apply_discount"
+			],
+			[
+				"or",
+				"original_price"
+			],
+			[
+				"co",
+				"commission_percentage"
+			],
+			[
+				"o",
+				"o_price"
+			],
+			[
+				"c",
+				"c_value"
+			],
+			[
+				"com",
+				"commission_type"
+			],
+			[
+				"max",
+				"max_com_with_discount"
+			],
+			[
+				"commi",
+				"commission_type"
+			],
+			[
+				"min_",
+				"min_with_discount"
+			],
+			[
+				"form",
+				"formulas"
+			],
+			[
+				"colo",
+				"colorDays"
+			],
+			[
+				"for",
+				"formula_ids"
+			],
+			[
+				"date",
+				"date_ids"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"ope",
+				"opened_hours"
+			],
+			[
+				"to",
+				"to_bought_date"
+			],
+			[
+				"reset",
+				"reset_available_dates"
+			],
+			[
+				"curr",
+				"currency_discounts"
+			],
+			[
+				"ext",
+				"extracted_datas"
+			],
+			[
+				"succe",
+				"success_code"
+			],
+			[
+				"not",
+				"notices"
+			],
+			[
+				"rese",
+				"reserved_at"
+			],
+			[
+				"respo",
+				"response_code"
+			],
+			[
+				"ma",
+				"matchings_hours"
+			],
+			[
+				"formul",
+				"formula_id"
+			],
+			[
+				"upd",
+				"updated_at"
+			],
+			[
+				"add",
+				"add_date"
+			],
+			[
+				"upda",
+				"update_dates"
+			],
+			[
+				"asso",
+				"association_name"
+			],
+			[
+				"up",
+				"update_dates"
+			],
+			[
+				"aa",
+				"availability"
+			],
+			[
+				"products",
+				"products_controller"
+			],
+			[
+				"org",
+				"org_id"
+			],
+			[
+				"site",
+				"site_origin"
+			],
+			[
+				"match",
+				"matching_products"
+			],
+			[
+				"create",
+				"create_new_product"
+			],
+			[
+				"partn",
+				"partner_id"
+			],
+			[
+				"get",
+				"get_site_origin"
+			],
+			[
+				"exi",
+				"existing_discounts"
+			],
+			[
+				"exisi",
+				"existing_discounts"
+			],
+			[
+				"dis",
+				"discount_type"
+			],
+			[
+				"has_",
+				"has_and_belongs_to_many"
+			],
+			[
+				"other",
+				"other_info"
+			],
+			[
+				"is",
+				"is_discount?"
+			],
+			[
+				"info",
+				"info_hash"
+			],
+			[
+				"days",
+				"days_prices"
+			],
+			[
+				"av",
+				"available_days"
+			],
+			[
+				"last",
+				"last_update"
+			],
+			[
+				"header",
+				"headersGetter"
+			],
+			[
+				"filte",
+				"filtered_availabilities"
+			],
+			[
+				"manag",
+				"manageResourcesFound"
+			],
+			[
+				"filt",
+				"filtered_availabilities"
+			],
+			[
+				"current",
+				"current_formula"
+			],
+			[
+				"place",
+				"placeSelected"
+			],
+			[
+				"curren",
+				"current_formula"
+			],
+			[
+				"current_",
+				"current_formula"
+			],
+			[
+				"partner_",
+				"partner_not_found"
+			],
+			[
+				"error",
+				"error_message"
+			],
+			[
+				"fil",
+				"filtered_discounts"
+			],
+			[
+				"mana",
+				"manageResourcesFound"
+			],
+			[
+				"filter",
+				"filtered_discounts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tango_with_django_project/settings.py",
+			"settings":
+			{
+				"buffer_size": 2418,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/rango/index.html",
+			"settings":
+			{
+				"buffer_size": 250,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rango/views.py",
+			"settings":
+			{
+				"buffer_size": 647,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rango/models.py",
+			"settings":
+			{
+				"buffer_size": 57,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 33.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/regmillet/Workspace/DjangoProjects/tango_with_django_project",
+		"/home/regmillet/Workspace/DjangoProjects/tango_with_django_project/rango",
+		"/home/regmillet/Workspace/DjangoProjects/tango_with_django_project/tango_with_django_project",
+		"/home/regmillet/Workspace/DjangoProjects/tango_with_django_project/templates",
+		"/home/regmillet/Workspace/DjangoProjects/tango_with_django_project/templates/rango"
+	],
+	"file_history":
+	[
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/layouts/application.html.erb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/vendor/assets/bower_components/angular/angular.js",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/availabilities/all.rabl",
+		"/home/regmillet/Workspace/Currents/cap-plannings/config/routes.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/config/locales/rails.fr.yml",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/stylesheets/application/layout.css.scss",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/stylesheets/application/modules/offers_selection.css.scss",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/prices/show.json.rabl",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/models/availability.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/controllers/application_controller.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/controllers/availabilities_controller.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/controllers/prices_controller.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/db/migrate/20150723161036_add_resell_value_to_prices.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/lib/tasks/migrate.rake",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/templates/products/price-fields.html",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/models/discount.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/stylesheets/foundation_and_overrides.scss",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/models/price.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/templates/products/price.html",
+		"/home/regmillet/Workspace/Currents/cap-plannings/Capfile",
+		"/home/regmillet/Workspace/Currents/cap-plannings/config/deploy.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/db/migrate/20150529050044_add_missing_indexes.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/controllers/partners_controller.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/Gemfile",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/templates/directives/offers-selection.html",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/models/price.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/models/day.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/controllers/discounts_controller.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/models/product.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/config/database.yml",
+		"/home/regmillet/Workspace/Currents/cap-plannings/vendor/assets/bower.json",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/controllers/partners_controller.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/services/partner_service.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/models/partner.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/main.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/models/offer.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/db/migrate/20150330130010_rename_cap_id_to_remote_id.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/db/migrate/20150302145939_remove_unique_constraint_for_cap_id.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/db/migrate/20150224153011_add_discounts_products_join_table.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/db/migrate/20141111115446_change_partner_id_column_type.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/config/newrelic.yml",
+		"/home/regmillet/Workspace/Currents/cap-plannings/log/bullet.log",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/models/hours_price.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/config/initializers/rabl_init.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/public/healthcheck",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/models/prices_product.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/tmp/grouped_discounts",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/services/web_service.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/models/calendar.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/controllers/navigation_controller.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/config/deploy/production.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/models/hour.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/controllers/availability_controller.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/services/product_service.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/controllers/prices_controller.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/controllers/application_controller.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/models/product.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/controllers/products_controller.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/templates/products/discount.html",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/application/_left_column.html.erb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/controllers/discounts_controller.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/templates/partner.html.erb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/templates/directives/frequency-selection.html",
+		"/home/regmillet/Workspace/Currents/cap-plannings/config/locales/angular_app.fr.yml",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/templates/availability.html",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/filters/availability_filters.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/directives/offers_selection.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/models/days_price.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/directives/loading.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/models/availability.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/templates/products/discount-form.html",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/models/property_model.js.coffee",
+		"/home/regmillet/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/regmillet/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/regmillet/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/services/price_service.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/prices/index.json.rabl",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/models/discount.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/config/deploy/staging.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/models/api_key.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/availabilities/show.json.rabl",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/controllers/date_picker_controller.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/application/global_functions.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/prices/get_from_date.json.rabl",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/templates/directives/dates-selection.html.erb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/directives/frequency_selection.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/products/show.json.rabl",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/templates/directives/flash_messages.html.erb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/filters/application_filters.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/discounts/index.rabl",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/availabilities/index.rabl",
+		"/home/regmillet/Workspace/Currents/cap-plannings/db/migrate/20150330123611_add_prices_products_join_table.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/application/year_selection.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/templates/products/price-form.html",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/application/_calendar.html.erb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/tmp/cache/assets/development/sprockets/2f5173deea6c795b8fdde723bb4b63af",
+		"/home/regmillet/Workspace/Currents/cap-plannings/tmp/cache/assets/development/sprockets/511a9401ddc6974a5e2226f9449e853a",
+		"/home/regmillet/Workspace/Currents/cap-plannings/tmp/cache/assets/development/sprockets/cffd775d018f68ce5dba1ee0d951a994",
+		"/home/regmillet/Workspace/Currents/cap-plannings/tmp/cache/assets/development/sprockets/dca9a7b1c5002fa40b9c7229d7d9bd23",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/services/availability_service.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/products/remote_info.json.rabl",
+		"/home/regmillet/Workspace/Currents/cap-plannings/db/migrate/20140827044045_create_offers.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/db/migrate/20140827044416_create_products.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/db/schema.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/Guardfile",
+		"/home/regmillet/Workspace/Currents/cap-plannings/config/environments/development.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/products/cap_info.json.rabl",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/application/initialize_functions.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/config/application.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/config/environments/production.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/config/locales/angular_app.es.yml",
+		"/home/regmillet/Workspace/Currents/cap-plannings/db/migrate/20150209135824_create_api_keys.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/views/application/home.html.erb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/public/401.html",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/application/get_rails_info.js.coffee.erb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/application/functions.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/filters/price_filters.js.coffee",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/stylesheets/application/modules/calendar.css.scss",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/application/functions.js",
+		"/home/regmillet/Workspace/Currents/cap-plannings/config/initializers/core_ext.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/config/locales/base.fr.yml",
+		"/home/regmillet/Workspace/Currents/cap-plannings/config/locales/base.es.yml",
+		"/home/regmillet/Workspace/Currents/cap-plannings/lib/core_ext/active_record_extension.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/helpers/application_helper.rb",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/application.js",
+		"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/directives/dates_selection.js.coffee",
+		"/home/regmillet/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/regmillet/Workspace/Currents/cap-plannings/lib/core_ext/hash.rb"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/regmillet/Workspace/Currents/cap-plannings",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app/models",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app/",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app/assets",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app/",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app/coffeescripts",
+			"/home/regmillet/Workspace/Currents/cap-plannings",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app",
+			"/home/regmillet/Workspace/Currents/cap-plannings",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app",
+			"/home/regmillet/Workspace/Currents/cap-plannings",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts",
+			"/home/regmillet/Workspace/Currents/cap-plannings",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app",
+			"/home/regmillet/Workspace/Currents/cap-plannings",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts",
+			"/home/regmillet/Workspace/Currents/cap-plannings",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app/models",
+			"/home/regmillet/Workspace/Currents/cap-plannings",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts",
+			"/home/regmillet/Workspace/Currents/cap-plannings",
+			"/home/regmillet/Workspace/Currents/cap-plannings/db/migrate",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app",
+			"/home/regmillet/Workspace/Currents/cap-plannings/public",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app",
+			"/home/regmillet/Workspace/Currents/cap-plannings",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts/directives/ng_confirm_click.js.coffee",
+			"/home/regmillet/Workspace/Currents/cap-plannings",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app",
+			"/home/regmillet/Workspace/Currents/cap-plannings",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app/assets",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/stylesheets",
+			"/home/regmillet/Workspace/Currents/cap-plannings",
+			"/home/regmillet/Workspace/Currents/cap-plannings/vendor/assets/bower_components/jquery-ui/ui",
+			"/home/regmillet/Workspace/Currents/cap-plannings",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app",
+			"/home/regmillet/Workspace/Currents/cap-plannings",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app",
+			"/home/regmillet/Workspace/Currents/cap-plannings",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app/assets/javascripts",
+			"/home/regmillet/Workspace/Currents/cap-plannings/app",
+			"/home/regis/Workspace/Currents/cap-plannings",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"CAP",
+			"console.log",
+			"input",
+			"red",
+			"transformData",
+			"serverRequest",
+			"$HttpBackendProvider",
+			"createHttpBackend",
+			"post",
+			"send",
+			"xhr.send(post)",
+			"httpBackend",
+			"xhr.send",
+			"console.log",
+			"select_days",
+			"destroy",
+			".default_includes",
+			"\"----------",
+			"\"----------\"",
+			"health",
+			"destroyAvailability",
+			"console.log",
+			"PartnerService",
+			"RemotePartnerService",
+			"PartnerService",
+			"loadAvailabilities",
+			"product_id",
+			"loadAvailabilities",
+			"availability-hours",
+			"cope.product",
+			"console.log",
+			"hours",
+			"place",
+			"productSelected",
+			"deselectDates",
+			"API_URL",
+			"console.log",
+			"scope.$watch",
+			"$scope.$watch",
+			"_.indexOf",
+			"$watch",
+			"toggleOfferSelections",
+			"params[:dates]",
+			"calendar.loading",
+			"translate-",
+			"translate",
+			"secondary",
+			"offers_selected",
+			".push",
+			"Authorization",
+			"Authorizataion",
+			"Authorization",
+			"API_URL",
+			"<<<< HEAD",
+			"HEAD",
+			"<<<< HEAD",
+			"compare_global_prices",
+			"managed_prices?",
+			"<<<< HEAD",
+			"managed_prices?",
+			"compare_price",
+			"<<<< HEAD",
+			"data_hour",
+			"date_out_of_range?",
+			"<<<<< HEAD",
+			"closed_hours",
+			"managed_prices?",
+			"get_days_info",
+			"create_associations",
+			";\n",
+			"displayFlashMessage",
+			"console.log",
+			"resource",
+			"checkbox",
+			"closeForm",
+			"original_dates",
+			"display: none",
+			"watch",
+			"unlimited",
+			"Day.filter",
+			"filter",
+			"from_date",
+			"toOptions",
+			"defaut_includes",
+			"selectResources",
+			"selectOffers",
+			"selectProducts",
+			"selectOffers",
+			"offer_ids",
+			"get_offers",
+			"getOffers",
+			"resource.dates",
+			"selected_dates",
+			"resource",
+			"[]",
+			"i18n.errors",
+			"select_at_least_one",
+			"offer_ids",
+			"Discount.",
+			"min_price",
+			"compare_price",
+			"DISCOUNT_TYPE",
+			"commission_type",
+			"is_class",
+			"new_record",
+			"new_record()",
+			"new_record",
+			"count_missing_priced_dates",
+			"format_commission",
+			"filter_dates",
+			"select_week_day",
+			"select_date",
+			"select_resources",
+			"reset_calendar",
+			"color_selected_dates",
+			"add_resource",
+			"change_year",
+			"display_flash_message",
+			"formula",
+			"Formula",
+			"formula",
+			"current_formula",
+			"formula_remote_id",
+			"formula",
+			"formula_id",
+			"formula_ids",
+			"get_products_from_remote_ids",
+			"setAvailableDates"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"selected_resource",
+			"displayFlashMessage",
+			"Product",
+			"product",
+			"current_product",
+			"remote_product_id",
+			"product",
+			"remote_product_id",
+			"remote_id",
+			"forms",
+			"option",
+			"set_available_dates",
+			"WEBSERVICE_API",
+			"params[:partner_id].to_s",
+			".to_s",
+			"h4",
+			"$rootScope.resource",
+			"small-6",
+			"small-5",
+			"small-7",
+			"small-4",
+			"small-8",
+			"prices",
+			"Prices",
+			"Price",
+			"price",
+			"resource",
+			"Products",
+			"products",
+			"Product",
+			"product",
+			"partner_id"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tango_with_django_project/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2124,
+								2124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 976.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/rango/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								250,
+								250
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "rango/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								647,
+								647
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "rango/models.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 57,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "django_tuto.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Workspace/Currents/canvasgames/canvasgames.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 323.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
